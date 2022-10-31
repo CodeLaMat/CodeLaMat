@@ -7,7 +7,7 @@
 
                        - 🤝Please contribute your ideas and experiences to help me on this way. **Thanks in advance.**
 
-                       - 👨‍💻 All of my projects are available at [https://github.com/CodeLaMat](https://github.com/CodeLaMat)
+                       - 👨‍💻 All of my projects are available at [https://github.com/CodeLaMat]
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
