@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyvaz Alishov</h1>
 
 
-                       - 🔭 I'm a student at Helsinki Business College at **Full Stack Web Developer Programm.**
+                       - 🔭 I'm a student at Helsinki Business College at **Full Stack Web Developer Programme.**
 
                        - 👨‍💻 I use this account for my **school projects.**
 
