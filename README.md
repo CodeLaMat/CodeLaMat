@@ -1,5 +1,10 @@
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&pause=1000&color=2789C8&center=true&vCenter=true&width=1000&lines=I+am+a+student+of+the+Full+Stack+Web+;Developer+program+at+Helsinki+Business+;College.+I+use+this+account+for+;my+school+projects.;Please+contribute+your+ideas+and+;experiences+to+help+me+on+this+way.+;Thanks+in+advance!)](https://git.io/typing-svg)
 
+
+![alt text](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
 
 
