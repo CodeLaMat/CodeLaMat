@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eyvaz Alishov</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&pause=1000&color=2789C8&center=true&vCenter=true&width=471&lines=I+am+a+student+of+the+Full+Stack+Web+;Developer+program+at+Helsinki+Business+;College.+I+use+this+account+for+;my+school+projects.;Please+contribute+your+ideas+and+;experiences+to+help+me+on+this+way.+;Thanks+in+advance!)](https://git.io/typing-svg)
 
 
-                       - 🔭 I'm a student at Helsinki Business College at **Full Stack Web Developer Programme.**
 
-                       - 👨‍💻 I use this account for my **school projects.**
-
-                       - 🤝Please contribute your ideas and experiences to help me on this way. **Thanks in advance.**
-
-                       - 👨‍💻 All of my projects are available at [https://github.com/CodeLaMat]
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
